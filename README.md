@@ -4,13 +4,13 @@
  * @Author: WhimsyQuester rongquanhuang01@gmail.com
  * @Date: 2023-04-14 10:38:23
  * @LastEditors: WhimsyQuester rongquanhuang01@gmail.com
- * @LastEditTime: 2023-11-21 16:43:23
+ * @LastEditTime: 2023-11-22 02:21:11
  * Copyright (c) 2023 by WhimsyQuester , All Rights Reserved.
 -->
 
 <div align="center">
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wish you a happy life today!&center=true&size=24" alt="动态打字效果"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my GitHub page!;Aloof wishes you a wonderful day!&center=true&size=24" alt="动态打字效果"/>
   </div>
   <div align="center" width="500" height="375">
   <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
