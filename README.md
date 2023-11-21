@@ -4,7 +4,7 @@
  * @Author: WhimsyQuester rongquanhuang01@gmail.com
  * @Date: 2023-04-14 10:38:23
  * @LastEditors: WhimsyQuester rongquanhuang01@gmail.com
- * @LastEditTime: 2023-11-21 16:34:24
+ * @LastEditTime: 2023-11-21 16:43:23
  * Copyright (c) 2023 by WhimsyQuester , All Rights Reserved.
 -->
 
@@ -119,10 +119,6 @@
 
 <div align="center">
     <img width="36%" src="./assets/githubgif.gif" />
-</div>
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/WhimsyQuester/WhimsyQuester/github-metrics/people.followers.svg" alt="people.followers" />
 </div>
 
 <div align="center">
