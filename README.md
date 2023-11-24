@@ -4,7 +4,7 @@
  * @Author: WhimsyQuester rongquanhuang01@gmail.com
  * @Date: 2023-04-14 10:38:23
  * @LastEditors: WhimsyQuester rongquanhuang01@gmail.com
- * @LastEditTime: 2023-11-22 02:21:11
+ * @LastEditTime: 2023-11-25 03:15:39
  * Copyright (c) 2023 by WhimsyQuester , All Rights Reserved.
 -->
 
@@ -15,6 +15,7 @@
   <div align="center" width="500" height="375">
   <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
   </div>
+
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhimsyQuester/WhimsyQuester/output/github-contribution-grid-snake-dark.svg">
@@ -114,7 +115,8 @@
 </div>
 
 <div align="center">
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub-Profile-3D-Contrib"/>
+    <img src="https://cdn.jsdelivr.net/gh/WhimsyQuester/WhimsyQuester/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
 </div>
 
 <div align="center">
