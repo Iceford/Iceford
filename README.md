@@ -4,7 +4,7 @@
  * @Author: WhimsyQuester rongquanhuang01@gmail.com
  * @Date: 2023-04-14 10:38:23
  * @LastEditors: WhimsyQuester rongquanhuang01@gmail.com
- * @LastEditTime: 2023-11-25 03:15:39
+ * @LastEditTime: 2023-11-25 03:30:10
  * Copyright (c) 2023 by WhimsyQuester , All Rights Reserved.
 -->
 
@@ -115,7 +115,7 @@
 </div>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/WhimsyQuester/WhimsyQuester/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 </div>
 
