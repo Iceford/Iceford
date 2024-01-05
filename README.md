@@ -119,9 +119,16 @@
 </div>
 </div>
 
+
 <div align="center">
-    <img width="36%" src="./assets/githubgif.gif" />
+    <span>
+        <img width="36%" src="./assets/githubgif.gif" />
+    </span>
+    <span>
+        <a href='https://clustrmaps.com/site/1by29'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=0e1633&w=659&t=tt&d=oeVi6Tako6f_KQOQTP21weEI73JZH8g2qyoxy108KX4&co=0b4975&ct=cdd4d9'/></a>
+    </span>
 </div>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,mongodb,idea,git" alt="编程工具图标"/><br>
@@ -152,3 +159,4 @@
 <div align="center">
   <img src="./assets/icon.png" />
 </div>
+
