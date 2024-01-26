@@ -4,7 +4,7 @@
  * @Author: WhimsyQuester rongquanhuang01@gmail.com
  * @Date: 2023-04-14 10:38:23
  * @LastEditors: WhimsyQuester rongquanhuang01@gmail.com
- * @LastEditTime: 2023-11-28 02:57:18
+ * @LastEditTime: 2024-01-26 20:35:05
  * Copyright (c) 2023 by WhimsyQuester , All Rights Reserved.
 -->
 
@@ -121,12 +121,7 @@
 
 
 <div align="center">
-    <span>
-        <img width="36%" src="./assets/githubgif.gif" />
-    </span>
-    <span>
-        <a href='https://clustrmaps.com/site/1by29'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=0e1633&w=659&t=tt&d=oeVi6Tako6f_KQOQTP21weEI73JZH8g2qyoxy108KX4&co=0b4975&ct=cdd4d9'/></a>
-    </span>
+  <img width="36%" src="./assets/githubgif.gif" />
 </div>
 
 
