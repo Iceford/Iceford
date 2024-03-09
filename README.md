@@ -4,13 +4,13 @@
  * @Author: WhimsyQuester rongquanhuang01@gmail.com
  * @Date: 2023-04-14 10:38:23
  * @LastEditors: WhimsyQuester rongquanhuang01@gmail.com
- * @LastEditTime: 2024-01-26 20:35:05
+ * @LastEditTime: 2024-03-10 05:19:55
  * Copyright (c) 2023 by WhimsyQuester , All Rights Reserved.
 -->
 
 <div align="center">
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my GitHub page!;Aloof wishes you a wonderful day!&center=true&size=24" alt="动态打字效果"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my GitHub page!;Changle wishes you a cheerful day!&center=true&size=24" alt="动态打字效果"/>
   </div>
   <div align="center" width="500" height="375">
   <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
@@ -33,7 +33,7 @@
 ## 🤺 About Me
 
 <img align="right" width="250" src="./assets/hi.gif" />
-<p>&emsp;&emsp;<font size=3.5>Hi everyone, I'm Aloof.</font></p>
+<p>&emsp;&emsp;<font size=3.5>Hi everyone, I'm Changle .</font></p>
 <p>&emsp;&emsp;<font size=3.5>Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</font></p>
 <p>&emsp;&emsp;<font size=3.5>Since I chose this major after the college entrance exam, let's go ahead in this industry !</font></p>
 <p>&emsp;&emsp;<font size=3.5>After trying many directions, I still wanted to become a full stack developer.</font></p>
@@ -48,7 +48,7 @@
 
 <img align="right" width="200" src="./assets/technologist.png" />
 
-- [Longchuan No. 1 Experimental School](https://baike.baidu.com/item/%E6%B2%B3%E6%BA%90%E5%B8%82%E9%BE%99%E5%B7%9D%E7%AC%AC%E4%B8%80%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1/59936961) <br>
+- [Heyuan Longchuan First Experimental School](https://baike.baidu.com/item/%E6%B2%B3%E6%BA%90%E5%B8%82%E9%BE%99%E5%B7%9D%E7%AC%AC%E4%B8%80%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1/59936961) <br>
   📌 2014/09 ~ 2017/07
 
 - [Longchuan County No. 1 Middle School](https://baike.baidu.com/item/%E9%BE%99%E5%B7%9D%E5%8E%BF%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6/5388056) <br>
