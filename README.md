@@ -1,16 +1,16 @@
 <!--
  * @Description: GitHub 配置文件自述文件
  * @FilePath: \README.md
- * @Author: WhimsyQuester rongquanhuang01@gmail.com
+ * @Author: Iceford rongquanhuang01@gmail.com
  * @Date: 2023-04-14 10:38:23
- * @LastEditors: WhimsyQuester rongquanhuang01@gmail.com
- * @LastEditTime: 2024-03-10 05:19:55
- * Copyright (c) 2023 by WhimsyQuester , All Rights Reserved.
+ * @LastEditors: Iceford rongquanhuang01@gmail.com
+ * @LastEditTime: 2024-05-23 20:17:51
+ * Copyright (c) 2023 by Iceford , All Rights Reserved.
 -->
 
 <div align="center">
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my GitHub page!;Changle wishes you a cheerful day!&center=true&size=24" alt="动态打字效果"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my GitHub page!;Aloof wishes you a cheerful day!&center=true&size=24" alt="动态打字效果"/>
   </div>
   <div align="center" width="500" height="375">
   <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
@@ -18,9 +18,9 @@
 
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhimsyQuester/WhimsyQuester/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhimsyQuester/WhimsyQuester/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WhimsyQuester/WhimsyQuester/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iceford/Iceford/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iceford/Iceford/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Iceford/Iceford/output/github-contribution-grid-snake.svg">
     </picture>
   </div>
 </div>
@@ -33,7 +33,7 @@
 ## 🤺 About Me
 
 <img align="right" width="250" src="./assets/hi.gif" />
-<p>&emsp;&emsp;<font size=3.5>Hi everyone, I'm Changle .</font></p>
+<p>&emsp;&emsp;<font size=3.5>Hi everyone, I'm Aloof .</font></p>
 <p>&emsp;&emsp;<font size=3.5>Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</font></p>
 <p>&emsp;&emsp;<font size=3.5>Since I chose this major after the college entrance exam, let's go ahead in this industry !</font></p>
 <p>&emsp;&emsp;<font size=3.5>After trying many directions, I still wanted to become a full stack developer.</font></p>
@@ -61,9 +61,9 @@
   - Major: Computer Science and Technology
     <br>
 
-- [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/)<br>
+<!-- - [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/)<br>
   📌 2023/02 ~ 2023/07
-  - Job: Intern at R&D Center (Academician Office)
+  - Job: Intern at R&D Center (Academician Office) -->
 
 </td>
 </tr>
@@ -111,7 +111,7 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=WhimsyQuester&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=Iceford&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 </div>
 
 <div align="center">
